@@ -8,4 +8,4 @@ Created emoji guessing app whether you input or you click on emoji.It will displ
 
 
 ## Live Project
-[RecommendationApp](https://em8r6s.csb.app/)
+[RecommendationApp](https://yqlgxc.csb.app/)
